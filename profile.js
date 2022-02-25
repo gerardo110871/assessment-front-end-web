@@ -23,4 +23,3 @@ function favRitual() {
 colorBtn.addEventListener('click', favColor)
 placeBtn.addEventListener('click', favPlace)
 ritualBtn.addEventListener('click', favRitual)
-
