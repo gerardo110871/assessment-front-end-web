@@ -1,0 +1,82 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+#checkbox1, #checkbox2, #checkbox3 {
+	display: inline;
+}
+
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+ul {
+	font: bold;
+}
+
+#color, #place, #ritual {
+	display: inline;
+	padding:15px;
+	font-size: 12pt;
+	background-color: yellow;
+	border-radius: 20px;
+}
+
+.myInt, .mySkills {
+	color: rgb(0, 0, 161);
+	text-align: left;
+
+}
+
+.myForm {
+	display: flex;
+	position: fixed;
+	bottom: 0;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	height: 23px;
+	width: 388px;
+	background-color:lightblue
+}
+
+.pic {
+	margin-bottom: 20px;
+	max-width: 500px;
+	border-radius: 20px;
+}
+
